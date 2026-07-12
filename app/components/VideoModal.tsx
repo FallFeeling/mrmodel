@@ -51,6 +51,18 @@ function InteractionCard({ thread }: { thread: InteractionThread }) {
   const replies: Array<CommentItem & { is_author?: boolean }> = thread.replies?.length
     ? thread.replies
     : thread.author_replies.map((reply) => ({ ...reply, is_author: true }));
+  const knownAuthorReplyIds = new Set(thread.author_replies.map((reply) => reply.comment_id));
+  const authorRepliesById = new Map<string, CommentItem>();
+  thread.author_replies.forEach((reply) => authorRepliesById.set(reply.comment_id, reply));
+  replies.forEach((reply) => {
+    if (reply.is_author || knownAuthorReplyIds.has(reply.comment_id)) {
+      authorRepliesById.set(reply.comment_id, reply);
+    }
+  });
+  const authorReplies = Array.from(authorRepliesById.values());
+  const otherReplies = replies.filter(
+    (reply) => !reply.is_author && !knownAuthorReplyIds.has(reply.comment_id),
+  );
   return (
     <article className="interaction-thread">
       <div className="comment-row">
@@ -66,7 +78,15 @@ function InteractionCard({ thread }: { thread: InteractionThread }) {
         </div>
       </div>
 
-      {replies.length > 0 && (
+      {authorReplies.length > 0 && (
+        <div className="interaction-author-replies">
+          {authorReplies.map((reply) => (
+            <AuthorReply reply={reply} key={reply.comment_id} />
+          ))}
+        </div>
+      )}
+
+      {otherReplies.length > 0 && (
         <button
           className="expand-replies"
           type="button"
@@ -77,26 +97,22 @@ function InteractionCard({ thread }: { thread: InteractionThread }) {
           }}
           aria-expanded={expanded}
         >
-          <span>{expanded ? "收起回复" : `展开 ${replies.length} 条回复`}</span>
+          <span>{expanded ? "收起其他回复" : `展开 ${otherReplies.length} 条其他回复`}</span>
           <span className={expanded ? "chevron expanded" : "chevron"}>⌄</span>
         </button>
       )}
 
       {expanded && (
         <div className="reply-list">
-          {replies.map((reply) => (
-            reply.is_author ? (
-              <AuthorReply reply={reply} key={reply.comment_id} />
-            ) : (
-              <div className="regular-reply" key={reply.comment_id}>
-                <Avatar comment={reply} />
-                <div className="comment-content">
-                  <div className="comment-heading"><strong>{reply.user.nickname}</strong></div>
-                  <p>{reply.text}</p>
-                  <CommentMeta comment={reply} />
-                </div>
+          {otherReplies.map((reply) => (
+            <div className="regular-reply" key={reply.comment_id}>
+              <Avatar comment={reply} />
+              <div className="comment-content">
+                <div className="comment-heading"><strong>{reply.user.nickname}</strong></div>
+                <p>{reply.text}</p>
+                <CommentMeta comment={reply} />
               </div>
-            )
+            </div>
           ))}
         </div>
       )}

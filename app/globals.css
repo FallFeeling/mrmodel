@@ -100,6 +100,7 @@ body.modal-open { overflow: hidden; }
 .comment-meta { display: flex; align-items: center; gap: 11px; color: var(--faint); font-size: 10px; }
 .liked-badge, .author-badge { padding: 2px 6px; border-radius: 5px; background: var(--amber-soft); color: var(--amber); font-size: 10px; font-weight: 700; }
 .author-reply { position: relative; margin: 14px 0 0 44px; padding: 14px 14px 14px 16px; border-radius: 9px; background: linear-gradient(110deg, rgba(255,189,32,.11), rgba(255,189,32,.04)); overflow: hidden; }
+.interaction-author-replies { display: grid; }
 .reply-accent { position: absolute; inset: 0 auto 0 0; width: 2px; background: var(--amber); }
 .reply-time { margin-left: auto; color: var(--faint); font-size: 10px; }
 .comments-panel, .transcript-panel { display: grid; gap: 14px; }
