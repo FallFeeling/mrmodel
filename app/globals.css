@@ -117,7 +117,8 @@ body.modal-open { overflow: hidden; }
 .numbered-comment { display: grid; grid-template-columns: 32px minmax(0, 1fr); gap: 8px; align-items: start; }
 .comment-index { padding-top: 17px; color: var(--faint); font: 600 10px ui-monospace, monospace; text-align: center; }
 .comment-thread-card { padding: 15px; border: 1px solid var(--line); border-radius: 11px; background: var(--surface-2); }
-.expand-replies { display: flex; align-items: center; gap: 7px; margin: 12px 0 0 45px; padding: 0; border: 0; background: transparent; color: var(--amber); cursor: pointer; font-size: 11px; }
+.expand-replies { position: relative; z-index: 1; display: flex; min-height: 30px; align-items: center; gap: 7px; margin: 8px 0 -4px 37px; padding: 6px 8px; border: 0; border-radius: 7px; background: transparent; color: var(--amber); cursor: pointer; font-size: 11px; touch-action: manipulation; }
+.expand-replies:hover { background: var(--amber-soft); }
 .chevron { display: inline-block; transition: transform 150ms ease; }
 .chevron.expanded { transform: rotate(180deg); }
 .reply-list { display: grid; gap: 8px; margin: 12px 0 0 44px; padding-left: 14px; border-left: 1px solid rgba(255,189,32,.22); }

@@ -15,7 +15,8 @@ export function Dashboard() {
 
   useEffect(() => {
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
-    fetch(`${basePath}/data/videos.json`)
+    // GitHub Pages 对静态 JSON 默认缓存约 10 分钟。监控数据需要每次打开都取最新版本。
+    fetch(`${basePath}/data/videos.json?v=${Date.now()}`, { cache: "no-store" })
       .then((response) => {
         if (!response.ok) throw new Error("数据文件读取失败");
         return response.json();
@@ -52,8 +53,6 @@ export function Dashboard() {
         <div className="summary-strip">
           <div><strong>{data.video_count}</strong><span>视频</span></div>
           <div><strong>{data.interaction_video_count}</strong><span>检测到互动</span></div>
-          <div><strong>{data.transcribed_video_count || 0}</strong><span>视频已转录</span></div>
-          <div><strong>{data.comment_enriched_video_count || 0}</strong><span>深度评论</span></div>
         </div>
       </header>
 

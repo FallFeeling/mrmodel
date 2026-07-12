@@ -67,7 +67,16 @@ function InteractionCard({ thread }: { thread: InteractionThread }) {
       </div>
 
       {replies.length > 0 && (
-        <button className="expand-replies" type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded}>
+        <button
+          className="expand-replies"
+          type="button"
+          data-testid={`interaction-expand-${thread.parent.comment_id}`}
+          onClick={(event) => {
+            event.stopPropagation();
+            setExpanded((value) => !value);
+          }}
+          aria-expanded={expanded}
+        >
           <span>{expanded ? "收起回复" : `展开 ${replies.length} 条回复`}</span>
           <span className={expanded ? "chevron expanded" : "chevron"}>⌄</span>
         </button>
@@ -243,7 +252,6 @@ export function VideoModal({ video, onClose }: Props) {
         <header className="modal-header">
           <div>
             <span className="modal-kicker">视频 #{String(video.order).padStart(2, "0")}{video.is_deleted ? " · 已删除" : ""}</span>
-            <h2>{video.description}</h2>
             <p>{video.published_at} · 赞 {formatCount(video.like_count)} · 评 {formatCount(video.comment_count)}</p>
           </div>
           <div className="modal-actions">
@@ -253,13 +261,13 @@ export function VideoModal({ video, onClose }: Props) {
 
         <nav className="modal-tabs" aria-label="详情分类">
           <button className={tab === "interaction" ? "active" : ""} onClick={() => setTab("interaction")}>
-            博主互动 <span>{video.interaction_threads.length}</span>
+            博主互动
           </button>
           <button className={tab === "transcript" ? "active" : ""} onClick={() => setTab("transcript")}>
-            视频转录 {video.transcript_status === "complete" && <span>已完成</span>}
+            视频转录
           </button>
           <button className={tab === "comments" ? "active" : ""} onClick={() => setTab("comments")}>
-            评论 {video.comments_status === "complete" && <span>{video.comments?.length || 0}</span>}
+            评论
           </button>
         </nav>
 
