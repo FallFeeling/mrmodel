@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:34:21",
+  "generated_at": "2026-07-13T16:44:55",
   "author": {
     "name": "模型先生",
     "sec_uid": "MS4wLjABAAAAK713M9d8PGNb_WiMYf7yKhOI5y60H4uELJK2guDjJT0"
@@ -19,8 +19,8 @@
       "description_source": "",
       "published_at": "2026-07-13 15:10:18",
       "published_timestamp": 1783926618,
-      "like_count": 1696,
-      "comment_count": 759,
+      "like_count": 5404,
+      "comment_count": 1848,
       "duration_ms": 29351,
       "monitor_status": "active",
       "monitor_ends_at": "2026-07-15T15:10:18",
@@ -79,54 +79,18 @@
       "comments_status": "complete",
       "comments": [
         {
-          "comment_id": "7661912431404401448",
-          "text": "他们不会买的，他们会在几根大阳线后问能不能买，还能买吗，高位接盘后再回头骂",
-          "create_time": 1783928005,
-          "create_time_display": "2026-07-13 15:33:25",
+          "comment_id": "7661913477020402481",
+          "text": "收到，今天已低吸",
+          "create_time": 1783928248,
+          "create_time_display": "2026-07-13 15:37:28",
           "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "浙江",
+          "reply_total": 1,
+          "ip_label": "四川",
           "user": {
-            "nickname": "漩涡鸣人",
-            "uid": "71393325635",
-            "sec_uid": "MS4wLjABAAAAOeLCJ6XOGAvwJ0qa5-mBpcAlEItJT-D1iqYcXhb-OcE",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_1cacc000191b571a75b9e.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661912360307180288",
-          "text": "先生能不能回我下，锂电池，能源锂矿，电芯相关还能回去今年前高嘛",
-          "create_time": 1783927989,
-          "create_time_display": "2026-07-13 15:33:09",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "广东",
-          "user": {
-            "nickname": "泥泥🐻",
-            "uid": "55081750523",
-            "sec_uid": "MS4wLjABAAAA24eV6UXOO2iHY-mlDk4GQw70-dcc724ZqskDGXA4ly8",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f9817c2e8a675842bea1cf5bc84b85cb.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661907461750850341",
-          "text": "浪紫回头金不换[捂脸][捂脸]",
-          "create_time": 1783926847,
-          "create_time_display": "2026-07-13 15:14:07",
-          "digg_count": 31,
-          "reply_total": 8,
-          "ip_label": "山东",
-          "user": {
-            "nickname": "喵",
-            "uid": "2172275049375549",
-            "sec_uid": "MS4wLjABAAAAM2bMSN0ut9hO4D8ScmIWJCtUx0nrzptdOHxbrLI6XIm1SPZopiMR1chf-0uW50-f",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_owCBPeGBLAWBmwZLA7XKAEWBFbfIQaAeASctrI.jpeg?from=2064092626"
+            "nickname": "桐湫",
+            "uid": "241484420350056",
+            "sec_uid": "MS4wLjABAAAA6N-9X66kE78zry3dCLq7aBo86W1OHFpT57AlcFVo2wo",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osrJAZYEZEEJWAgmA3AI9lQF3fB3NQADADeCg7.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
@@ -138,7 +102,7 @@
           "create_time": 1783927004,
           "create_time_display": "2026-07-13 15:16:44",
           "digg_count": 0,
-          "reply_total": 5,
+          "reply_total": 7,
           "ip_label": "江西",
           "user": {
             "nickname": "⭕️",
@@ -151,288 +115,324 @@
           "replies": []
         },
         {
-          "comment_id": "7661912336958030630",
-          "text": "华友钴业咋办[捂脸][捂脸][捂脸]",
-          "create_time": 1783927983,
-          "create_time_display": "2026-07-13 15:33:03",
+          "comment_id": "7661922976284082996",
+          "text": "在浪潮信息的小伙子们快回头吧",
+          "create_time": 1783930462,
+          "create_time_display": "2026-07-13 16:14:22",
+          "digg_count": 0,
+          "reply_total": 1,
+          "ip_label": "陕西",
+          "user": {
+            "nickname": "冷面樱桃杀手",
+            "uid": "59252404889",
+            "sec_uid": "MS4wLjABAAAAQyuxFOQt9B9gstHcfs0Zwtsk99gXyEi49A-I6pzun5k",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_ooyFEnC1AgAIlAeHAiKLfAvADcqBAi7xYCKGqA.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661930697635922746",
+          "text": "懂了，紫金矿业",
+          "create_time": 1783932256,
+          "create_time_display": "2026-07-13 16:44:16",
           "digg_count": 0,
           "reply_total": 0,
-          "ip_label": "安徽",
+          "ip_label": "上海",
           "user": {
-            "nickname": "追光桐行",
-            "uid": "3724736866048456",
-            "sec_uid": "MS4wLjABAAAAISx9STtzAv5uz3FPWYbGTa08S8gzGRxf8lM1XdoWPA2r5mpu0h50_Xl6D4nI5vzl",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_o0hICAKHsQTARQ7f5HIALCDfA5uFEEefQA5ofw.jpeg?from=2064092626"
+            "nickname": "刀乐哥",
+            "uid": "3979883464884359",
+            "sec_uid": "MS4wLjABAAAA7dnMy8G9QEtAlQiL78nOriUw08JuDyW23j36--GNL-MvMgkf3mqJnZWQJ4-fgH0e",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_ooNeBAgQ78t8CNAYegAPMQAIIAEUzeMkYHaJWE.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661912437201371953",
-          "text": "一天来看先生很多次[捂脸]",
-          "create_time": 1783928005,
-          "create_time_display": "2026-07-13 15:33:25",
-          "digg_count": 0,
-          "reply_total": 0,
+          "comment_id": "7661922127037661989",
+          "text": "共进没人关注吗[哭哭]",
+          "create_time": 1783930261,
+          "create_time_display": "2026-07-13 16:11:01",
+          "digg_count": 1,
+          "reply_total": 2,
           "ip_label": "湖南",
           "user": {
-            "nickname": "浅夏流年",
-            "uid": "1820382533791208",
-            "sec_uid": "MS4wLjABAAAAZL24tRKCml8BR77YSkvrXAuQpjp65XDDBpD3B_LOFK22AfluTSXIwvbTVN8dPW8y",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0c3eeb3b8f2e71fc0493efd09ad96c34.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661908089398723365",
-          "text": "先生，请问大盘调整到位了吗[苦涩][苦涩][苦涩]",
-          "create_time": 1783926993,
-          "create_time_display": "2026-07-13 15:16:33",
-          "digg_count": 2,
-          "reply_total": 2,
-          "ip_label": "四川",
-          "user": {
-            "nickname": "罗蛳粉里没罗卜",
-            "uid": "945183114149543",
-            "sec_uid": "MS4wLjABAAAAdksOe-50506IF7qQMh2kkxDBZENmU7IEDaUcloft0PY",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oMuEBmJYEBu0Co9nimiCwwIieA49AlPfAAC0A9.jpeg?from=2064092626"
+            "nickname": "山鸟🌈",
+            "uid": "60874691392",
+            "sec_uid": "MS4wLjABAAAAENZl20H_KBL77ceziBw-bl_gKFb31TcBFLurmCCQ7xI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_baa96b1f5dca4a48ab4cf4c8c2a7dacc.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661907396398498619",
-          "text": "我好像懂了 lcxx回头满仓干",
-          "create_time": 1783926832,
-          "create_time_display": "2026-07-13 15:13:52",
-          "digg_count": 3,
+          "comment_id": "7661914656743523121",
+          "text": "爸 我真顶不住了 全仓回撤二十个点[哭哭]",
+          "create_time": 1783928522,
+          "create_time_display": "2026-07-13 15:42:02",
+          "digg_count": 0,
+          "reply_total": 0,
+          "ip_label": "湖北",
+          "user": {
+            "nickname": "作手新怡",
+            "uid": "3158249318137488",
+            "sec_uid": "MS4wLjABAAAAGuOnBlrPN3pINnkjI46dDXeTiFrBhQoBeZzrddS8o0LVUnsdfUg-NSJXYw2FUaxS",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_92b7e17629c1eb4138c5e4c20835f115.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661930397831889713",
+          "text": "国产存储不算国产算力产业链吗",
+          "create_time": 1783932187,
+          "create_time_display": "2026-07-13 16:43:07",
+          "digg_count": 0,
+          "reply_total": 0,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "如题",
+            "uid": "97883064303",
+            "sec_uid": "MS4wLjABAAAAHyKJ5tK2C10qLs5n8yz0MKNte28qWcNLtxpFG4xZuk4",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0ec3df33e109851e461a466cdbf09de6.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661910535127253819",
+          "text": "明天来个地位我接一下",
+          "create_time": 1783927563,
+          "create_time_display": "2026-07-13 15:26:03",
+          "digg_count": 6,
+          "reply_total": 2,
+          "ip_label": "上海",
+          "user": {
+            "nickname": "阿水飞",
+            "uid": "4287737532000318",
+            "sec_uid": "MS4wLjABAAAAXKJ1c7-LujvR444kll9VcMatNNXyAFMCiRSCF31Mfsg-sjkFUlG6p3YMJfZ1Rf8U",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_10f24b06186efc6449872a2b086e0e83.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661917401948635947",
+          "text": "上个月的30号见顶是真的风神了",
+          "create_time": 1783929481,
+          "create_time_display": "2026-07-13 15:58:01",
+          "digg_count": 5,
           "reply_total": 0,
           "ip_label": "广东",
           "user": {
-            "nickname": "史迪仔",
-            "uid": "61277473581",
-            "sec_uid": "MS4wLjABAAAAYlW8kx52fGEpmKHkKMhM9a1dqS2NAwqpIKy5NohFNSM",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_02e25717dd18400894b6ea53f0754105.jpeg?from=2064092626"
+            "nickname": "Rocky李",
+            "uid": "71154934614",
+            "sec_uid": "MS4wLjABAAAAypdyp-Ppx2q794-F0tKKumF7iRVnvqE7iazNVRtyj0A",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oIFsJAEGNEpdZ0qLIAAUQAEZBBfOennAf7IYDT.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661909685469692681",
-          "text": "航天是犯了天条吗",
-          "create_time": 1783927366,
-          "create_time_display": "2026-07-13 15:22:46",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "贵州",
-          "user": {
-            "nickname": "t f c",
-            "uid": "379748350701459",
-            "sec_uid": "MS4wLjABAAAAlYVMiL_2ZTxsdSDOTi8VT6MpclahRfQ7n1aiUKLmfZw",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_dc3d2dad05147d369d4d3c33ac57e4a9.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661907323681833777",
-          "text": "先生，我关注你晚了啊[流泪]",
-          "create_time": 1783926815,
-          "create_time_display": "2026-07-13 15:13:35",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "重庆",
-          "user": {
-            "nickname": "☞果*^_^*果☜",
-            "uid": "2079919887100525",
-            "sec_uid": "MS4wLjABAAAAulME0tJZ0atGHVysauXqpy_7mRNxEwjqXdkBW9T5PfjI7ACL6tJnTIAFkE10-gDn",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_e1d1575fb0c6409990b57ab1e11c7623.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661907874234909489",
-          "text": "先生存储还会不会反弹了",
-          "create_time": 1783926943,
-          "create_time_display": "2026-07-13 15:15:43",
-          "digg_count": 3,
+          "comment_id": "7661909174109274899",
+          "text": "稀士钨还能拿吗，每天7八个点跌，腰展了",
+          "create_time": 1783927248,
+          "create_time_display": "2026-07-13 15:20:48",
+          "digg_count": 1,
           "reply_total": 2,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "六安看海",
+            "uid": "97855152766",
+            "sec_uid": "MS4wLjABAAAADtQe-CfNSCKNegwkT2GSe5TC-vJ5ZOhKTA938jSM0TI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_f93d0011af7d674cad87.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661914639975252782",
+          "text": "先生这次明牌是阳谋还是只是测试啊",
+          "create_time": 1783929056,
+          "create_time_display": "2026-07-13 15:50:56",
+          "digg_count": 3,
+          "reply_total": 0,
           "ip_label": "河南",
           "user": {
-            "nickname": "知小知",
-            "uid": "75478691425",
-            "sec_uid": "MS4wLjABAAAAfl0TTmKo3A8w_VXiqtxQgRJOdAjLBezh6bxXuLZEiA8",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_71c964d349a7a12a59ea2edbb82fda37.jpeg?from=2064092626"
+            "nickname": "Gwen",
+            "uid": "104640593386",
+            "sec_uid": "MS4wLjABAAAAm_ctYVEPqgycoxDEbhC1BLkSxecsrJEIXjqpEIPjcsk",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_69eda5c3534394c6a07b35326e3193c1.jpeg?from=2064092626"
           },
-          "replies_status": "error",
+          "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661907273568404273",
-          "text": "港股算力买哪个？",
-          "create_time": 1783926803,
-          "create_time_display": "2026-07-13 15:13:23",
+          "comment_id": "7661913005546144561",
+          "text": "满仓拓维",
+          "create_time": 1783928137,
+          "create_time_display": "2026-07-13 15:35:37",
           "digg_count": 0,
-          "reply_total": 4,
+          "reply_total": 0,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "合肥金融小美",
+            "uid": "1779478883220328",
+            "sec_uid": "MS4wLjABAAAAYaTyjC6OU2ClNCxvcVgB60MLYbaoX-oMiXIjrMGbptZvKVfMiJSzzBNLBzKpDuOQ",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a32c018ea3386e5671f73a189eab8522.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661930229234139941",
+          "text": "不是要等回调吗？",
+          "create_time": 1783932148,
+          "create_time_display": "2026-07-13 16:42:28",
+          "digg_count": 0,
+          "reply_total": 0,
           "ip_label": "山西",
           "user": {
-            "nickname": "初心🍃",
-            "uid": "95688720567",
-            "sec_uid": "MS4wLjABAAAA4CjCF4AQJz9mfxQXdzcDtJnELMy3eoN5-gRGmc_UraI",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_abab546d0763617ba66c048f9b3f7289.jpeg?from=2064092626"
+            "nickname": "鹊桥相会",
+            "uid": "103716590463",
+            "sec_uid": "MS4wLjABAAAAScDRo-TBT1917DV7PdFOAorb83h3gv7_cJXnDBGz85Y",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_550e1c97092246d4a0ec4f5ae8bdd5fe.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661912454825509666",
+          "text": "赵姨本月能到350 不要急",
+          "create_time": 1783928380,
+          "create_time_display": "2026-07-13 15:39:40",
+          "digg_count": 0,
+          "reply_total": 1,
+          "ip_label": "湖南",
+          "user": {
+            "nickname": "真椰椰鸭",
+            "uid": "103583909326",
+            "sec_uid": "MS4wLjABAAAAJsJD-EzRSFrsLUxQWnTe9oAC4ZU5bp3fGnD5BkQtx60",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_okMFgvAPE4ikh7cAlAwMOLinB4AMxwbABIaXo.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661912359753286440",
-          "text": "看了平均发现大哥的粉丝都是有才华的人。哈哈，浪紫[捂脸]",
-          "create_time": 1783927989,
-          "create_time_display": "2026-07-13 15:33:09",
+          "comment_id": "7661922501718754054",
+          "text": "超短小队，现在68人，还有一起的吗？",
+          "create_time": 1783930350,
+          "create_time_display": "2026-07-13 16:12:30",
+          "digg_count": 2,
+          "reply_total": 13,
+          "ip_label": "江西",
+          "user": {
+            "nickname": "光影",
+            "uid": "103001934734",
+            "sec_uid": "MS4wLjABAAAANqOwLdIsClJzu_dglzGJsWZjZF1jEIC0-xKP2lezl3w",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_okfSamCDkCAFfQNEAIaA8AAIL4qgonGtDA9SEC.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661929652075725617",
+          "text": "有色铜说下。啥时候能起来啊",
+          "create_time": 1783932013,
+          "create_time_display": "2026-07-13 16:40:13",
           "digg_count": 0,
           "reply_total": 0,
-          "ip_label": "湖北",
+          "ip_label": "河南",
           "user": {
-            "nickname": "张三李四",
-            "uid": "1143131995116168",
-            "sec_uid": "MS4wLjABAAAA8EmYl0WGvX3Aoa7RU9Bi6GP7lLaOqhU1KoG_E29t2shxns3svNcocEmI63B4eQX5",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_o0BAWBAAhoiAoIyQPrwUqAtbalEvnIMKXzigZ.jpeg?from=2064092626"
+            "nickname": "艺澄&艺铭",
+            "uid": "94462043716",
+            "sec_uid": "MS4wLjABAAAAIMIo6HwxNEMOv0VgHWsoFdOYoZTPf0mNhdd3S6U09Z0",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_3886335c589e419a8829d9f2a1f4057b.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661908408191124276",
-          "text": "大哥，铜换浪紫了 [抱紧自己]",
-          "create_time": 1783927538,
-          "create_time_display": "2026-07-13 15:25:38",
+          "comment_id": "7661919015942472500",
+          "text": "京东方a跌的我想哭[泣不成声]",
+          "create_time": 1783929539,
+          "create_time_display": "2026-07-13 15:58:59",
           "digg_count": 0,
           "reply_total": 0,
-          "ip_label": "浙江",
+          "ip_label": "新疆",
           "user": {
-            "nickname": "大白",
-            "uid": "2395192227535853",
-            "sec_uid": "MS4wLjABAAAAIKoGp_iH1d1x0aOoHIKXYmUymbNLuhHKl_Bf7DjCtkowWNsU1H1NgcXo80gFdFUq",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_o8qAIibAADEDnwAAcRZCfFbgLEnzYQ9m9SEyeA.jpeg?from=2064092626"
+            "nickname": "鱼儿♥",
+            "uid": "1517791352726439",
+            "sec_uid": "MS4wLjABAAAA7o7le4BhttUmAMyWdf7zOasg5OcOobDOVapCYlMcqSQHbDSNzX8h2zVLMyoAxVhg",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osIA0nHASChAfg9N0TQABFEASKDWdOA0kfyORC.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661908405816329012",
-          "text": "满仓紫光",
-          "create_time": 1783927068,
-          "create_time_display": "2026-07-13 15:17:48",
+          "comment_id": "7661930158882046769",
+          "text": "大佬们 紫guang这波看涨到多少",
+          "create_time": 1783932131,
+          "create_time_display": "2026-07-13 16:42:11",
           "digg_count": 0,
           "reply_total": 0,
-          "ip_label": "安徽",
+          "ip_label": "上海",
           "user": {
-            "nickname": "。。。。。。",
-            "uid": "92098213026",
-            "sec_uid": "MS4wLjABAAAA4JE2f36MiXRX8Ls5L4Z5yBn1L1efvzV2UMF46PxUN0k",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_owQDmaAptiuvACm2c60AGwAAEDDSVEAIVgfF9f.jpeg?from=2064092626"
+            "nickname": "普通的人",
+            "uid": "3003476323077800",
+            "sec_uid": "MS4wLjABAAAAY8bn2CevET_D26orKMFyR1A918ZTd5S7awWBwUi5ydzcJG8KijxrpGF82h1iiCIj",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_owtQZ00Diu5GAipB7AeEAwEzTdAqEMBwAILfeF.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661912410055967537",
-          "text": "错过了摸石头，这回不能错过浪子。",
-          "create_time": 1783927998,
-          "create_time_display": "2026-07-13 15:33:18",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "湖北",
-          "user": {
-            "nickname": "如易",
-            "uid": "97667462416",
-            "sec_uid": "MS4wLjABAAAACcIcugTNAwTh38b4wQqE7bZN-Foh5vHg79ePRu1lAQc",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_86e503f7ccf8ac1071dcb943ab346d5e.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661911741480567590",
-          "text": "一直稳稳的拿着呢",
-          "create_time": 1783927846,
-          "create_time_display": "2026-07-13 15:30:46",
-          "digg_count": 0,
-          "reply_total": 0,
+          "comment_id": "7661907863183835923",
+          "text": "先生说话真有水平啊\n浪紫回头金不换[泪奔]\n希望明天给我机会买",
+          "create_time": 1783926943,
+          "create_time_display": "2026-07-13 15:15:43",
+          "digg_count": 50,
+          "reply_total": 17,
           "ip_label": "山东",
           "user": {
-            "nickname": "行走的米粒",
-            "uid": "83911942042",
-            "sec_uid": "MS4wLjABAAAA7xYD0YzTvsZp7owYyTO11eOMxTpJcBAksUtlHl9Pb-Y",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a12820c2ce9a8fc68a0fc00eae7ba81c.jpeg?from=2064092626"
+            "nickname": "🎀 Zhang ᥫᩣ婷",
+            "uid": "78682541682",
+            "sec_uid": "MS4wLjABAAAArokwXeFV8s82awAPwT45lpTWaMWtEH_nhllRArXHfuc",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f71ac15299b11fe8e7fbba67fa267b3b.jpeg?from=2064092626"
           },
-          "replies_status": "complete",
+          "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661907480486822706",
-          "text": "今天紫光尾盘拉爆了[看][看][看]",
-          "create_time": 1783926853,
-          "create_time_display": "2026-07-13 15:14:13",
+          "comment_id": "7661929166976402191",
+          "text": "紫金矿业能入吗",
+          "create_time": 1783931903,
+          "create_time_display": "2026-07-13 16:38:23",
           "digg_count": 0,
           "reply_total": 0,
           "ip_label": "安徽",
           "user": {
-            "nickname": "买辣条也用券¿",
-            "uid": "65937354761",
-            "sec_uid": "MS4wLjABAAAAv5dHMS_sk9bG-NHv-Zz7zU3NgMmy4JPhImRV7CUsjh8",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2e76088090fa57d4a1556d40d921dd28.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661909837315654437",
-          "text": "今天紫光牛逼",
-          "create_time": 1783927400,
-          "create_time_display": "2026-07-13 15:23:20",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "广东",
-          "user": {
-            "nickname": "牛国星",
-            "uid": "81411053598",
-            "sec_uid": "MS4wLjABAAAARt45cDrEhq70sbOIsTMxvrMDFEvTzh0PvhWZv24ube8",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_3124d00026024dcf63a91.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661909378648539947",
-          "text": "有色也死了",
-          "create_time": 1783927298,
-          "create_time_display": "2026-07-13 15:21:38",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "湖北",
-          "user": {
-            "nickname": "jiang",
-            "uid": "94844442898",
-            "sec_uid": "MS4wLjABAAAAUiX4TXdW4wi1IJyHwTJHQvjBYw8g8loTJN9moimtrIw",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_72fd975536374a278cbc956dd093b065.jpeg?from=2064092626"
+            "nickname": "椰椰🍬",
+            "uid": "66847539894",
+            "sec_uid": "MS4wLjABAAAAacDP5z1rj36SGoBTVZaZJa39buTl3WPvWc3CKXYUjzY",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d93e88421767b38b27f322ec66b71a93.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
@@ -450,8 +450,8 @@
       "description_source": "",
       "published_at": "2026-07-12 10:52:04",
       "published_timestamp": 1783824724,
-      "like_count": 29270,
-      "comment_count": 4028,
+      "like_count": 29438,
+      "comment_count": 4050,
       "duration_ms": 21700,
       "monitor_status": "active",
       "monitor_ends_at": "2026-07-14T10:52:04",
@@ -1861,18 +1861,18 @@
       "comments_status": "complete",
       "comments": [
         {
-          "comment_id": "7661510106329285413",
+          "comment_id": "7661471213148242747",
           "text": "国产算力的两光两杰：浪潮信息、紫光股份、中科曙光、中兴通讯",
-          "create_time": 1783834331,
-          "create_time_display": "2026-07-12 13:32:11",
-          "digg_count": 38,
-          "reply_total": 9,
-          "ip_label": "江苏",
+          "create_time": 1783825276,
+          "create_time_display": "2026-07-12 11:01:16",
+          "digg_count": 963,
+          "reply_total": 155,
+          "ip_label": "河南",
           "user": {
-            "nickname": "“水晶”",
-            "uid": "60293344293",
-            "sec_uid": "MS4wLjABAAAAAk0VV3QfQV0AL4db6YaW25xCfyFZzkqinzqo2ycNtoI",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c9142c625185ecfd59d6aa5562d1fd3b.jpeg?from=2064092626"
+            "nickname": "飒飒-98",
+            "uid": "3188224448279768",
+            "sec_uid": "MS4wLjABAAAA_5dtLnyQn2_T6DiQAo1qKd9dvel0QWt91rBqunOsh8Zk02wfoEjjAQMW7RxjuHzo",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_ogfTCZ7CBzDZuzKEkzFfZEA9JrA4IgEf5hA8mA.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
@@ -1897,6 +1897,24 @@
           "replies": []
         },
         {
+          "comment_id": "7661472990496391982",
+          "text": "盛科通信是最核心的",
+          "create_time": 1783825690,
+          "create_time_display": "2026-07-12 11:08:10",
+          "digg_count": 25,
+          "reply_total": 22,
+          "ip_label": "甘肃",
+          "user": {
+            "nickname": "静水流深",
+            "uid": "10245635501",
+            "sec_uid": "MS4wLjABAAAA13qL0SPs_uGVe9terfA05cojHVWEkgN3p3TPRa8LvfA",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oAEAFWnTeAAknAeEA9YiACSAPWRIQCAbglgLyD.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
           "comment_id": "7661557042097144603",
           "text": "我买的星网锐捷。刚买的[捂脸]",
           "create_time": 1783845260,
@@ -1915,36 +1933,18 @@
           "replies": []
         },
         {
-          "comment_id": "7661546692663886592",
-          "text": "锐捷网络算吗",
-          "create_time": 1783842850,
-          "create_time_display": "2026-07-12 15:54:10",
-          "digg_count": 9,
-          "reply_total": 5,
-          "ip_label": "河北",
+          "comment_id": "7661481806852899594",
+          "text": "买etf的话是云计算etf还是大数据etf呀？有没有懂得朋友指导下",
+          "create_time": 1783827742,
+          "create_time_display": "2026-07-12 11:42:22",
+          "digg_count": 24,
+          "reply_total": 19,
+          "ip_label": "江西",
           "user": {
-            "nickname": "两个MJ",
-            "uid": "95983411946",
-            "sec_uid": "MS4wLjABAAAALkzVcyNSyx5OA_iNZfgJIoceieUVNMHYWb0_ozflx7E",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b5369d964e191a292aa84d5cba593c36.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661615568261776165",
-          "text": "铂力特即将起飞",
-          "create_time": 1783858886,
-          "create_time_display": "2026-07-12 20:21:26",
-          "digg_count": 0,
-          "reply_total": 1,
-          "ip_label": "湖南",
-          "user": {
-            "nickname": "朗里个朗",
-            "uid": "2739585449210868",
-            "sec_uid": "MS4wLjABAAAAvHVtXaPm4YkilRmO81gOUtyEhzuxkURpRA6sKDesGxKv6ir2za5ueynZVp55aCwM",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_cf1d8360763a4baa8f5abf0a279d63b4.jpeg?from=2064092626"
+            "nickname": "老树画画",
+            "uid": "99033371818",
+            "sec_uid": "MS4wLjABAAAAmnwASvIJYApwlPmfIvxxFo_xiU7Q7yZdofAtrwOL5vY",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4346d5a18beae6708de3448a2ca7ef0c.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
@@ -1969,74 +1969,74 @@
           "replies": []
         },
         {
-          "comment_id": "7661858645454373670",
-          "text": "兄弟们，下午有希望拉红吗",
-          "create_time": 1783915482,
-          "create_time_display": "2026-07-13 12:04:42",
-          "digg_count": 0,
-          "reply_total": 3,
-          "ip_label": "江苏",
+          "comment_id": "7661860993220690745",
+          "text": "今天我也想进紫光[捂脸]",
+          "create_time": 1783916028,
+          "create_time_display": "2026-07-13 12:13:48",
+          "digg_count": 2,
+          "reply_total": 13,
+          "ip_label": "河南",
           "user": {
-            "nickname": "c",
-            "uid": "3790721145897805",
-            "sec_uid": "MS4wLjABAAAA5Z7ye34Na7VW72bf2jQiIcP0tSOPYn4YEHFnNCh6yBrjT5COhnneeVg_JffxO2Co",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_58ee3c108f634aeb9ef995ad8b5163f9.jpeg?from=2064092626"
+            "nickname": "奶茶换涨停",
+            "uid": "287406372697683",
+            "sec_uid": "MS4wLjABAAAAklEC0-kEOpFT2EtBPWPEAM8fGsiAmedneMUvQs8n3As",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2d437b67af2385cdac5dd9e3424f145f.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661886983794983737",
-          "text": "7月主线老鼠药",
-          "create_time": 1783922080,
-          "create_time_display": "2026-07-13 13:54:40",
-          "digg_count": 1,
+          "comment_id": "7661918958828454671",
+          "text": "华勤算吗",
+          "create_time": 1783929526,
+          "create_time_display": "2026-07-13 15:58:46",
+          "digg_count": 0,
           "reply_total": 0,
           "ip_label": "广东",
           "user": {
-            "nickname": "小甜",
-            "uid": "104804401893",
-            "sec_uid": "MS4wLjABAAAAf7_iVJcUFCLRA7VX5yJkE0-yLGTfg1cQ0sV99CqBn_Q",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_o0FTdAOo6AiZEivAE4goH9CCnfVfQ5TAA26wID.jpeg?from=2064092626"
+            "nickname": "火兰虫且",
+            "uid": "2871566174784972",
+            "sec_uid": "MS4wLjABAAAAclKQOHB0mnpSpjgSyt-tNlh0tK0QxSCR8HTtpNstw6sGBxKWWmcryzVYt6TnDYBe",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_acef2bece0d9419a9eaa8f52338e0367.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661905412039983935",
-          "text": "虽然zg 从开盘就开始跌，但是一点都不慌，还有点期待[玫瑰]",
-          "create_time": 1783926371,
-          "create_time_display": "2026-07-13 15:06:11",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "福建",
-          "user": {
-            "nickname": "哈哈哈哈哈哈巴",
-            "uid": "3760779079986447",
-            "sec_uid": "MS4wLjABAAAAqhHI6B1otbrRT0kkpVxe1puVLbAX2587_NAdq4Ncy426U_IqfSX0bg7A9hXgn96k",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_10a5be357a6055c7eb7b3b551b191e7c.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661473091612443446",
-          "text": "1. 华为是国产GPU（昇腾）的芯片制造者；\n \n2. 常山北明（北明软件）是拿华为昇腾芯片搭建、运营商用算力中心的运营商+顶级集成商，是昇腾算力产业链下游核心资产股；\n \n3. 它不是华为子公司，是独立上市公司，但属于华为生态里最核心的几只A股标的之一。",
-          "create_time": 1783825713,
-          "create_time_display": "2026-07-12 11:08:33",
-          "digg_count": 4,
+          "comment_id": "7661893109505409841",
+          "text": "爸爸，股市都跌得不成样了，快点去救下它[捂脸]",
+          "create_time": 1783923509,
+          "create_time_display": "2026-07-13 14:18:29",
+          "digg_count": 2,
           "reply_total": 1,
-          "ip_label": "河南",
+          "ip_label": "广东",
           "user": {
-            "nickname": "手机高价回收 拍来照片 报价",
-            "uid": "2766834496974543",
-            "sec_uid": "MS4wLjABAAAAXJ6uyWy2m3jN68pIjsHhcrBnIHhJ-6OVOwCfu4GzerfMdblEUjksmepFeJpVKMg-",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_okZAAyyAoVBTiVoEAtqn5Q1gPiLIAPiIxj8XA.jpeg?from=2064092626"
+            "nickname": "瓦西里",
+            "uid": "70019044314",
+            "sec_uid": "MS4wLjABAAAAjpvrOtPfOYIAutGGRmgYSBkQADWlLYbgccFpq8WDhLQ",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6a6ceb2d1c81d075efa4d17301e6fe63.jpeg?from=2064092626"
           },
           "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661803692273828654",
+          "text": "@豆包 总结提纲给我",
+          "create_time": 1783902686,
+          "create_time_display": "2026-07-13 08:31:26",
+          "digg_count": 0,
+          "reply_total": 0,
+          "ip_label": "浙江",
+          "user": {
+            "nickname": "祖师爷的脚",
+            "uid": "4124990901846432",
+            "sec_uid": "MS4wLjABAAAAGuuFKrtJ0SmWss7A2WTR6bpRyMyDYAJ63XLwO6yby1kdaviAp3RzAyRALurjxCoA",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_86549c1c454fc3da0535931ce6f463f7.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
@@ -2059,38 +2059,38 @@
           "replies": []
         },
         {
-          "comment_id": "7661900855675077376",
-          "text": "先生，最近大盘好像有点鼠了[泪奔]",
-          "create_time": 1783925310,
-          "create_time_display": "2026-07-13 14:48:30",
+          "comment_id": "7661858645454373670",
+          "text": "兄弟们，下午有希望拉红吗",
+          "create_time": 1783915482,
+          "create_time_display": "2026-07-13 12:04:42",
           "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "浙江",
+          "reply_total": 3,
+          "ip_label": "江苏",
           "user": {
-            "nickname": "雀",
-            "uid": "103208515599",
-            "sec_uid": "MS4wLjABAAAAvqK8gRmg78iRJKS-ODTIL1nELjmspAbbxHQ9s3mP3Hc",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1e0bbdbb0d78329c7b6e3a26270931d5.jpeg?from=2064092626"
+            "nickname": "c",
+            "uid": "3790721145897805",
+            "sec_uid": "MS4wLjABAAAA5Z7ye34Na7VW72bf2jQiIcP0tSOPYn4YEHFnNCh6yBrjT5COhnneeVg_JffxO2Co",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_58ee3c108f634aeb9ef995ad8b5163f9.jpeg?from=2064092626"
           },
-          "replies_status": "complete",
+          "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661899301358666533",
-          "text": "请问先生，底大概是多少？",
-          "create_time": 1783924947,
-          "create_time_display": "2026-07-13 14:42:27",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "四川",
+          "comment_id": "7661473091612443446",
+          "text": "1. 华为是国产GPU（昇腾）的芯片制造者；\n \n2. 常山北明（北明软件）是拿华为昇腾芯片搭建、运营商用算力中心的运营商+顶级集成商，是昇腾算力产业链下游核心资产股；\n \n3. 它不是华为子公司，是独立上市公司，但属于华为生态里最核心的几只A股标的之一。",
+          "create_time": 1783825713,
+          "create_time_display": "2026-07-12 11:08:33",
+          "digg_count": 4,
+          "reply_total": 1,
+          "ip_label": "河南",
           "user": {
-            "nickname": "涵涵儿",
-            "uid": "88280749784",
-            "sec_uid": "MS4wLjABAAAAVoFanW7i5qbxdF7_hjGwQMWGpl9cdX1aJiuCd-XRuk8",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_o8heP1IlLBcUA9zoCgNkftADAFEQpAqNAtsyoA.jpeg?from=2064092626"
+            "nickname": "手机高价回收 拍来照片 报价",
+            "uid": "2766834496974543",
+            "sec_uid": "MS4wLjABAAAAXJ6uyWy2m3jN68pIjsHhcrBnIHhJ-6OVOwCfu4GzerfMdblEUjksmepFeJpVKMg-",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_okZAAyyAoVBTiVoEAtqn5Q1gPiLIAPiIxj8XA.jpeg?from=2064092626"
           },
-          "replies_status": "complete",
+          "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
@@ -2131,66 +2131,12 @@
           "replies": []
         },
         {
-          "comment_id": "7661898774201385765",
-          "text": "兄涨 可否明示一下您推测的指数底部",
-          "create_time": 1783924825,
-          "create_time_display": "2026-07-13 14:40:25",
-          "digg_count": 1,
-          "reply_total": 1,
-          "ip_label": "广东",
-          "user": {
-            "nickname": "Hokusai",
-            "uid": "536191623511379",
-            "sec_uid": "MS4wLjABAAAAI99mBea3Lt7nDNIeDsJKm3EAkjwSfu_1a4TANqBHt-Y",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oEEYIAEAeOiDAGB17iAKf2xX103AoiAweYBlEt.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661628436541326114",
-          "text": "今天删了什么视频？",
-          "create_time": 1783861882,
-          "create_time_display": "2026-07-12 21:11:22",
-          "digg_count": 0,
-          "reply_total": 1,
-          "ip_label": "广东",
-          "user": {
-            "nickname": "我爱祖国",
-            "uid": "3417711640591004",
-            "sec_uid": "MS4wLjABAAAAhvhXmAe_fdqHYk80SkTrYGXxCIItYTCVP_nZNRDDVvJbBHj5rRdRGHwlESbB-5n2",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1d8faf0d07f920e987147b2c8ccbf229.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661484593429742372",
-          "text": "国产算力老大zk，交换机老大zg",
-          "create_time": 1783828390,
-          "create_time_display": "2026-07-12 11:53:10",
-          "digg_count": 3,
-          "reply_total": 14,
-          "ip_label": "美国",
-          "user": {
-            "nickname": "LUCK29",
-            "uid": "97877739300",
-            "sec_uid": "MS4wLjABAAAAgc86lrcwVLs79oEZhBaYlXeVG8gfz2ilaSpE1uZO-3E",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2f9db90c53a1a328ff72038b6d30f58d.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
           "comment_id": "7661900255897584434",
           "text": "今天上午红色重仓进紫光的有吗？让我心里好受一点。",
           "create_time": 1783925169,
           "create_time_display": "2026-07-13 14:46:09",
           "digg_count": 3,
-          "reply_total": 9,
+          "reply_total": 10,
           "ip_label": "上海",
           "user": {
             "nickname": "人生百态",
@@ -2203,18 +2149,72 @@
           "replies": []
         },
         {
-          "comment_id": "7661880092532949797",
-          "text": "紫光，浪潮今天能上车吗",
-          "create_time": 1783920475,
-          "create_time_display": "2026-07-13 13:27:55",
-          "digg_count": 2,
-          "reply_total": 2,
-          "ip_label": "北京",
+          "comment_id": "7661899665404019506",
+          "text": "润健怎么说？",
+          "create_time": 1783925034,
+          "create_time_display": "2026-07-13 14:43:54",
+          "digg_count": 0,
+          "reply_total": 0,
+          "ip_label": "重庆",
           "user": {
-            "nickname": "北北妈妈",
-            "uid": "86448384115",
-            "sec_uid": "MS4wLjABAAAAMf0yKMf7BxM6OjR4w6djUWsov_kgrIzIttQxUGGyBFI",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_ooAdwkEgC8AFkEO6CT9ZfmfBAuD9ACAI3A6m7Y.jpeg?from=2064092626"
+            "nickname": "钛合金金",
+            "uid": "65600671157",
+            "sec_uid": "MS4wLjABAAAA8AsQ-xblI0kgs8ZF5vGsRaUxovtKPKpge5YLeD0BYSs",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_o8CADyV2IEPUMPIhwIaiAMBjqSiCQAY2pAkAS.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661623895846847232",
+          "text": "今天知道一个消息，赵姨那帮人是长❤️的原班团队",
+          "create_time": 1783860824,
+          "create_time_display": "2026-07-12 20:53:44",
+          "digg_count": 0,
+          "reply_total": 3,
+          "ip_label": "湖南",
+          "user": {
+            "nickname": "嫣然一笑jj",
+            "uid": "63933255639",
+            "sec_uid": "MS4wLjABAAAAqE4qttYLcTcjlXGbX0X3f9H8zcnhs-ZPdh4kLUKoDZ0",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1a0fd2f8d12a67814d2a034e13605a60.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661894528529400625",
+          "text": "被挂在紫色的光🙋‍♂️",
+          "create_time": 1783923836,
+          "create_time_display": "2026-07-13 14:23:56",
+          "digg_count": 3,
+          "reply_total": 12,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "httddsxh",
+            "uid": "719499797730571",
+            "sec_uid": "MS4wLjABAAAAwc2FjrsZlknhNLg3ktip45y5dvFgkZ4yShi88e8HwLI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-image-file_29b67719baea42884e5eb35e08c96621.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7661510106329285413",
+          "text": "国产算力的两光两杰：浪潮信息、紫光股份、中科曙光、中兴通讯",
+          "create_time": 1783834331,
+          "create_time_display": "2026-07-12 13:32:11",
+          "digg_count": 38,
+          "reply_total": 10,
+          "ip_label": "江苏",
+          "user": {
+            "nickname": "“水晶”",
+            "uid": "60293344293",
+            "sec_uid": "MS4wLjABAAAAAk0VV3QfQV0AL4db6YaW25xCfyFZzkqinzqo2ycNtoI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c9142c625185ecfd59d6aa5562d1fd3b.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
