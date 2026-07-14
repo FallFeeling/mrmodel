@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:16:31",
+  "generated_at": "2026-07-14T18:18:09",
   "author": {
     "name": "模型先生",
     "sec_uid": "MS4wLjABAAAAK713M9d8PGNb_WiMYf7yKhOI5y60H4uELJK2guDjJT0"
@@ -443,8 +443,8 @@
       "description_source": "",
       "published_at": "2026-07-13 15:10:18",
       "published_timestamp": 1783926618,
-      "like_count": 13836,
-      "comment_count": 5243,
+      "like_count": 14118,
+      "comment_count": 5748,
       "duration_ms": 29351,
       "monitor_status": "active",
       "monitor_ends_at": "2026-07-15T15:10:18",
@@ -562,218 +562,236 @@
       "comments_status": "complete",
       "comments": [
         {
-          "comment_id": "7662278717045195579",
-          "text": "先生，今天有色铜大涨，是补涨么，看了黄金没有走上升趋势，还是铜大幅上涨的时候到了？感觉还没有炒算力金属的时候。",
-          "create_time": 1784013286,
-          "create_time_display": "2026-07-14 15:14:46",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "广东",
-          "user": {
-            "nickname": "坚守理想",
-            "uid": "95538077703",
-            "sec_uid": "MS4wLjABAAAAH07uA4F2WMKC9hSDWwtbdptJW-QLsnvcyI3DG7MdvgY",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_3791_5070639578.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7662278704466248467",
-          "text": "92出的浪82又接回来了",
-          "create_time": 1784013284,
-          "create_time_display": "2026-07-14 15:14:44",
+          "comment_id": "7662325624769970954",
+          "text": "现在有好多假账号冒充先生的你们刷到没有",
+          "create_time": 1784024209,
+          "create_time_display": "2026-07-14 18:16:49",
           "digg_count": 0,
           "reply_total": 0,
           "ip_label": "安徽",
           "user": {
-            "nickname": "木头",
-            "uid": "102651326796",
-            "sec_uid": "MS4wLjABAAAAxHBtjduyhBRrLEap58dL_jwmp1qR_Y8cX-eLmeuT5k8",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2f13f00034ba152cd6a01.jpeg?from=2064092626"
+            "nickname": "杜家思",
+            "uid": "141158731520912",
+            "sec_uid": "MS4wLjABAAAAMjhyGQnXaudZkH3qPUo1R23rGcKJ-n6EjlHIOGC7G3E",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8157e12dec024b8fd30fb2e959d43113.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662278519246455603",
-          "text": "有色金属可以说一下嘛",
-          "create_time": 1784013241,
-          "create_time_display": "2026-07-14 15:14:01",
+          "comment_id": "7662324853030601521",
+          "text": "不应该是商业航天吗",
+          "create_time": 1784024028,
+          "create_time_display": "2026-07-14 18:13:48",
           "digg_count": 0,
           "reply_total": 0,
-          "ip_label": "江西",
+          "ip_label": "安徽",
           "user": {
-            "nickname": "恶魔",
-            "uid": "93187764876",
-            "sec_uid": "MS4wLjABAAAAmy3uHD3wPuLGVfAghYiwdPP1xpWtxizKWhXRnYHN_YM",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_os84nAfhIeIAW72ADBAIEDFERFAfAo9wDPCeIP.jpeg?from=2064092626"
+            "nickname": "1011010110100100",
+            "uid": "97757660650",
+            "sec_uid": "MS4wLjABAAAAKKvvxjn39A09nu_gwD_qyRlhKpDAsoJHpQLdPLa-Ps8",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_311a90002fcef4b84249e.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662278838550856507",
-          "text": "今天下跌时，接了点紫光",
-          "create_time": 1784013315,
-          "create_time_display": "2026-07-14 15:15:15",
+          "comment_id": "7662325602372535066",
+          "text": "有谁今天地板抄到的？[看]",
+          "create_time": 1784024205,
+          "create_time_display": "2026-07-14 18:16:45",
           "digg_count": 0,
           "reply_total": 0,
-          "ip_label": "河南",
+          "ip_label": "安徽",
           "user": {
-            "nickname": "🌈🌈相约人世间",
-            "uid": "95624926442",
-            "sec_uid": "MS4wLjABAAAAxK8d1Xi_h-OD8Qr7Su3IdXF5DjZE29oDj5pQBqwD_Pc",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2ea3900062a639e7090df.jpeg?from=2064092626"
+            "nickname": "萝卜使者",
+            "uid": "413837783738414",
+            "sec_uid": "MS4wLjABAAAAkiUgIXby6B3cywg9FWiwS8hhxwPlLkY8SCI-bso9StI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-file_bda7408f4c564ea1873f1a0f81944442.jpeg?from=2064092626"
           },
           "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662277525153989385",
-          "text": "相信先生！！！",
-          "create_time": 1784013009,
-          "create_time_display": "2026-07-14 15:10:09",
-          "digg_count": 2,
-          "reply_total": 1,
-          "ip_label": "黑龙江",
+          "comment_id": "7662211160523932470",
+          "text": "你们还有比我更惨的人吗？听了新闻15规划接近仓，买了特高压设备龙头。连跌四个月，火箭回收成功那一刻，割了一点点仓位打板进了商业航天连跌三个板，今天早上受不了了，把剩下的特高压设备割了一半进了浪子回头，谁知道他真回头了，我是不是被装监控了？",
+          "create_time": 1783997560,
+          "create_time_display": "2026-07-14 10:52:40",
+          "digg_count": 28,
+          "reply_total": 28,
+          "ip_label": "安徽",
           "user": {
-            "nickname": "张小乙乙",
-            "uid": "3591424881727920",
-            "sec_uid": "MS4wLjABAAAAXa99cZHKhbv9v1v7jf33KDX-ZkM1VzXSOVHuTN2AAtaFuRy21U2rWJtvbIPEyKt_",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_o0CisgKuEx1ADWwCDGmBfA0eF0AiAA0gA30zIk.jpeg?from=2064092626"
+            "nickname": "重八鲜切黄牛肉火锅 鲜肉铺炭火烤肉",
+            "uid": "3149207599",
+            "sec_uid": "MS4wLjABAAAAVOZEZq4LSDMeLULPmmoE3uIiGYHDSXOMdpXP1eMnZwM",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_8fbd75702c5d1bf333ee5fff3e8d091e.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662207973452956443",
-          "text": "摘自模型先生24.6.20。                                            [玫瑰][玫瑰][玫瑰]两点论就是什么呢，首先啊要想到最坏的结果，第二个呢也要看到好的结果，坏的结果就是最好最坏的打算，要接受这个最坏的打算，如果只看到一点的话，特别是有些只看到想象涨，这个满仓满融，这时候往往是亏大钱的一种方式，作为一个成熟的投资者，首先，你决定抗的时候，你就要看到想到跌的时候，而不能口头上说抗，实际上从来没想过跌，那这样的话，就不是抗，所以说从这个意义上说炒股票所有的这个买卖点基本上都有一个什么特点呢，你赚钱的概率是百分之七八十，亏钱百分之二三十，但是亏钱的这个部分呢，你做好最坏的打算，或者是止损，或者说是高位卖出，通过长期的这种概率你获得的盈利，而不是只看到一点，百分之百之涨，事实上是没有的事，所谓百分之百，也就是无限的接近，没有任何事是百分之一百的，这个必须要考虑清楚的",
-          "create_time": 1783996817,
-          "create_time_display": "2026-07-14 10:40:17",
-          "digg_count": 2,
-          "reply_total": 0,
-          "ip_label": "上海",
+          "comment_id": "7662279141630329643",
+          "text": "模型先生：今天浪子地板的时候评论区我看清了很多人[憨笑][比心]",
+          "create_time": 1784013385,
+          "create_time_display": "2026-07-14 15:16:25",
+          "digg_count": 176,
+          "reply_total": 32,
+          "ip_label": "安徽",
           "user": {
-            "nickname": "旺旺呀",
-            "uid": "97056262464",
-            "sec_uid": "MS4wLjABAAAAkvKCS23RjshYmsn6AQ4o27lsMKyGA9cPcu11cVJMSuQ",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b3acdf0a78ccff5158a64c998a26b3f0.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661907502388626235",
-          "text": "[求求了] 我今天超棒 忍了好久没有抄底赵姨 哈哈哈哈哈",
-          "create_time": 1783926856,
-          "create_time_display": "2026-07-13 15:14:16",
-          "digg_count": 0,
-          "reply_total": 1,
-          "ip_label": "河南",
-          "user": {
-            "nickname": "炒股看世界🌍",
-            "uid": "93383719237",
-            "sec_uid": "MS4wLjABAAAAofk1JLLH6-LDzX4DtP2KGzfNmXnMabSptRfl3XZnwPs",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c3641f3b71dc537294e94aa17cc3f952.jpeg?from=2064092626"
+            "nickname": "hhh",
+            "uid": "257727444826492",
+            "sec_uid": "MS4wLjABAAAAORJ9f8ofe_rgUpTIrK4LVDptcotbSMhcyM09DYpAjzU",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_12563e28809780ec7f948ffef0470fb2.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662274807216374534",
-          "text": "今天入了紫光",
-          "create_time": 1784012378,
-          "create_time_display": "2026-07-14 14:59:38",
+          "comment_id": "7662321622782640954",
+          "text": "水下9个点买的，[呲牙]",
+          "create_time": 1784023276,
+          "create_time_display": "2026-07-14 18:01:16",
           "digg_count": 0,
-          "reply_total": 3,
+          "reply_total": 0,
+          "ip_label": "浙江",
+          "user": {
+            "nickname": "听风1",
+            "uid": "2709648899585047",
+            "sec_uid": "MS4wLjABAAAAMnpMaM5HFCb4E0sC3pAT3WiqDNiffZIWjdYn0UONhczz_ydPfV4bGqKHrRH2Eoj2",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_ocE2A2bnNIJd92lA9aVCCS47XCPAfDRAeAA4Qg.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7662282550262235904",
+          "text": "商业航天连续跌停，先生能说说吗[流泪][感谢]",
+          "create_time": 1784014181,
+          "create_time_display": "2026-07-14 15:29:41",
+          "digg_count": 3,
+          "reply_total": 4,
+          "ip_label": "江苏",
+          "user": {
+            "nickname": "momo",
+            "uid": "68703895580",
+            "sec_uid": "MS4wLjABAAAAFJN9lQOiiAhkk47Gsd9OeQOufdgQo3Iq7nL-84rxS_Y",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b921689dc5cefb14ade7671eb4b0b4e7.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7662307199272567593",
+          "text": "先生 要不在雪球上搞个组合吧 [色]",
+          "create_time": 1784020409,
+          "create_time_display": "2026-07-14 17:13:29",
+          "digg_count": 0,
+          "reply_total": 1,
+          "ip_label": "江苏",
+          "user": {
+            "nickname": "用户9308425919701",
+            "uid": "79334218436",
+            "sec_uid": "MS4wLjABAAAAauRu85g7MkMqB_iKWVHnrbN3oStMpipyzNinVdDJsN4",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_3796_2975850990.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7662281626705445672",
+          "text": "今天上午突然意识到金不换是个重点",
+          "create_time": 1784013965,
+          "create_time_display": "2026-07-14 15:26:05",
+          "digg_count": 1,
+          "reply_total": 2,
+          "ip_label": "湖南",
+          "user": {
+            "nickname": "sunflower🌸",
+            "uid": "83767269282",
+            "sec_uid": "MS4wLjABAAAAxtpOwoSSvUKNMQ7_2IutiqiPDmycEKocMAaYqQNYGDE",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_dbff5d3f605f4e3eb11022233dcfc245.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7662299273517597497",
+          "text": "无条件信任先生 坚定持有[求求了]",
+          "create_time": 1784018072,
+          "create_time_display": "2026-07-14 16:34:32",
+          "digg_count": 8,
+          "reply_total": 1,
           "ip_label": "北京",
           "user": {
-            "nickname": "木木",
-            "uid": "83452356206",
-            "sec_uid": "MS4wLjABAAAA5SIzeyQkd0rUO58XI3rH2CowsxM8Yy3uYcb2m0j15jQ",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_87094d2ced7b433287da0a49b72b1a60.jpeg?from=2064092626"
+            "nickname": "爱财小仙女",
+            "uid": "2016965531282426",
+            "sec_uid": "MS4wLjABAAAAMiU1TEq55sV7PKOPPM8ApbUGB-gztP1KQQ66azJmQzBXc856h816UGlqxW4sEqRF",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c42cdb8490c1cd677c6386ed13e0e5ef.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662213417437152057",
-          "text": "家人们好，货出完了[捂脸]",
-          "create_time": 1783998084,
-          "create_time_display": "2026-07-14 11:01:24",
-          "digg_count": 22,
+          "comment_id": "7662306047118476069",
+          "text": "大佬紫光还能进吗，看到视频晚了，现在不知道能不能进，科士达怎么样，我觉得后面可能会到他",
+          "create_time": 1784019651,
+          "create_time_display": "2026-07-14 17:00:51",
+          "digg_count": 0,
           "reply_total": 2,
-          "ip_label": "山东",
+          "ip_label": "重庆",
           "user": {
-            "nickname": "杨乐乐。",
-            "uid": "103152940060",
-            "sec_uid": "MS4wLjABAAAApMlOrEVvvEjZ-doOpfEO8577jA_EHSSckNstaMFjNLU",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f9e81e644ebe2e797e897ba936d944b6.jpeg?from=2064092626"
+            "nickname": "哦兔",
+            "uid": "98643931461",
+            "sec_uid": "MS4wLjABAAAAY_hOEjXefWV-QpidIVmAOBRQ4eJjyFx27nV4tm8G4B8",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_837500262b8158644c0f.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662273262987248421",
-          "text": "小队以建，还有一起的吗",
-          "create_time": 1784012017,
-          "create_time_display": "2026-07-14 14:53:37",
-          "digg_count": 0,
-          "reply_total": 3,
-          "ip_label": "四川",
+          "comment_id": "7662214430779917113",
+          "text": "亏哭了[流泪] 躺平还是清仓",
+          "create_time": 1783998318,
+          "create_time_display": "2026-07-14 11:05:18",
+          "digg_count": 3,
+          "reply_total": 5,
+          "ip_label": "浙江",
           "user": {
-            "nickname": "安岚",
-            "uid": "160993855676269",
-            "sec_uid": "MS4wLjABAAAA3Lnd-7ppKbve3l2fystIhCBMhzHg4e2UIP8hTtmkHHI",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oksQRmfIAN27AQgI4KLpAzCGAeciATkeeZID2S.jpeg?from=2064092626"
+            "nickname": "y",
+            "uid": "93067641507",
+            "sec_uid": "MS4wLjABAAAASzLXzJ5COr79-3ZVoH9NIcE2ATCf8uepMnzqNzkwqhw",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2f5a60004dd1950b1ac44.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662197124989600538",
-          "text": "我是有多倒霉啊，AI猜猜（蓝标）亏5K，摸石头（航电）亏3K，困兽（胜宏）亏4K，今早竞价进紫光亏3K，有色亏3万[流泪]，对不起兄弟们，我把紫光也买垮了，大曾子都没法跟我比",
-          "create_time": 1783994290,
-          "create_time_display": "2026-07-14 09:58:10",
-          "digg_count": 14,
-          "reply_total": 13,
-          "ip_label": "广东",
+          "comment_id": "7661919015942472500",
+          "text": "京东方a跌的我想哭[泣不成声]",
+          "create_time": 1783929539,
+          "create_time_display": "2026-07-13 15:58:59",
+          "digg_count": 3,
+          "reply_total": 5,
+          "ip_label": "新疆",
           "user": {
-            "nickname": "转弯",
-            "uid": "3153017083789751",
-            "sec_uid": "MS4wLjABAAAAEIvzfhSSWOUz4XNvVaqtkse0QebudiqOBDmnf-pPT3YqXZm1BZIgU1am1dNg5TOo",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_3795_3033762272.jpeg?from=2064092626"
+            "nickname": "鱼儿♥",
+            "uid": "1517791352726439",
+            "sec_uid": "MS4wLjABAAAA7o7le4BhttUmAMyWdf7zOasg5OcOobDOVapCYlMcqSQHbDSNzX8h2zVLMyoAxVhg",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osIA0nHASChAfg9N0TQABFEASKDWdOA0kfyORC.jpeg?from=2064092626"
           },
           "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7662277737227158309",
-          "text": "紫光尾盘是拉升还是抢筹  有高手替我解惑吗[举手]",
-          "create_time": 1784013058,
-          "create_time_display": "2026-07-14 15:10:58",
-          "digg_count": 0,
-          "reply_total": 0,
-          "ip_label": "广东",
-          "user": {
-            "nickname": "M6zh",
-            "uid": "2327016949682959",
-            "sec_uid": "MS4wLjABAAAAHi-_xJkDrPuIyyHzD64XLZPtk6qbi2HXpsDau2YUXneJ-99dw8_yMdw5exyUJm-B",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6197c6046ad8268a19f330fa1b088110.jpeg?from=2064092626"
-          },
-          "replies_status": "complete",
           "author_liked": false,
           "replies": []
         },
@@ -796,128 +814,110 @@
           "replies": []
         },
         {
-          "comment_id": "7661959238629245730",
-          "text": "周三开始上升通道",
-          "create_time": 1783938903,
-          "create_time_display": "2026-07-13 18:35:03",
-          "digg_count": 1,
-          "reply_total": 1,
-          "ip_label": "山东",
-          "user": {
-            "nickname": "李佳乘风",
-            "uid": "2769004849535012",
-            "sec_uid": "MS4wLjABAAAATF_5ZV4JldJsoAOpdFN7ZPZPTI2JATJ_6E23ZiQCRzBLAVtN_b55wAzOMvGZBCDv",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f7792ef880f88133167557af99d7114e.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661934067013157674",
-          "text": "他是股神，你们都听他的就行了[捂脸]",
-          "create_time": 1783933043,
-          "create_time_display": "2026-07-13 16:57:23",
-          "digg_count": 1,
-          "reply_total": 1,
-          "ip_label": "四川",
-          "user": {
-            "nickname": "9527",
-            "uid": "104705433204",
-            "sec_uid": "MS4wLjABAAAAn3y6vGIg5fSuS_xXgjSkLN2-s2-a8XV9t_CCIuzEoeI",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oIEDIAAA96bAABzm6fAlNTW4CROAYhAgD6fLCl.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7661919015942472500",
-          "text": "京东方a跌的我想哭[泣不成声]",
-          "create_time": 1783929539,
-          "create_time_display": "2026-07-13 15:58:59",
+          "comment_id": "7662227892088357681",
+          "text": "下午分歧转一致",
+          "create_time": 1784001453,
+          "create_time_display": "2026-07-14 11:57:33",
           "digg_count": 3,
           "reply_total": 4,
-          "ip_label": "新疆",
+          "ip_label": "浙江",
           "user": {
-            "nickname": "鱼儿♥",
-            "uid": "1517791352726439",
-            "sec_uid": "MS4wLjABAAAA7o7le4BhttUmAMyWdf7zOasg5OcOobDOVapCYlMcqSQHbDSNzX8h2zVLMyoAxVhg",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osIA0nHASChAfg9N0TQABFEASKDWdOA0kfyORC.jpeg?from=2064092626"
+            "nickname": "MR.X",
+            "uid": "7587066120625947706",
+            "sec_uid": "MS4wLjABAAAA8LABYWJERi8CzFp5SbQ84KfccG06XirWAYZz0uAbWxweE7uXFHMEUMyJqV-DmPNZ",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_581981b899c1eb159ad7b36c286a4f28.jpeg?from=2064092626"
           },
           "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662276146567152390",
-          "text": "今天浪紫地板的时候就看出来哪些是没水平的黑粉了[捂脸]",
-          "create_time": 1784012690,
-          "create_time_display": "2026-07-14 15:04:50",
-          "digg_count": 1,
-          "reply_total": 0,
-          "ip_label": "安徽",
+          "comment_id": "7662305233061643045",
+          "text": "可能今天先生的心里不太好受。",
+          "create_time": 1784019460,
+          "create_time_display": "2026-07-14 16:57:40",
+          "digg_count": 0,
+          "reply_total": 1,
+          "ip_label": "江苏",
           "user": {
-            "nickname": "超级霹雳蟹.",
-            "uid": "61491437409",
-            "sec_uid": "MS4wLjABAAAAYS6mb4KreNuCh9w9ENGbpB2rRkPdkQpS9rx1N9XLiCo",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_afc926cd6f1822160fc136f98617e1d6.jpeg?from=2064092626"
+            "nickname": "warm sunny",
+            "uid": "131540948617847",
+            "sec_uid": "MS4wLjABAAAAhL8sUkymbgQkf309Lrpoh0yTfotSx4VjKu8aXiUPvu0",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_15b663173832422e91c9c6122bc46d0e.jpeg?from=2064092626"
           },
-          "replies_status": "complete",
+          "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7662275568469705482",
-          "text": "先生：今天让我看起了许多人",
-          "create_time": 1784012554,
-          "create_time_display": "2026-07-14 15:02:34",
-          "digg_count": 3,
-          "reply_total": 0,
+          "comment_id": "7662253241598559013",
+          "text": "浪子回头金不换，可以是拿住别动，也可以是珍惜他们回调的机会，之后想要这么低的位置，可能千金难换！没有别的，就是相信大哥，所以不要着急，时间会证明一切",
+          "create_time": 1784007355,
+          "create_time_display": "2026-07-14 13:35:55",
+          "digg_count": 11,
+          "reply_total": 10,
           "ip_label": "安徽",
           "user": {
-            "nickname": "mt-bxt",
-            "uid": "101997221414",
-            "sec_uid": "MS4wLjABAAAALG-BGYc1Y6q9G7_b1XrB3N0cUN223Djniaw-lv-k4cg",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_24396aa85c514f6db0f34db6a70ca935.jpeg?from=2064092626"
+            "nickname": "大🍊大🍐",
+            "uid": "63655356966",
+            "sec_uid": "MS4wLjABAAAATs_98hVZQU9uYcafNjyKkjtxCVM-7fJWULHYnNULGmc",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5c2bf36346f27312060bfa1fb00af6c1.jpeg?from=2064092626"
           },
-          "replies_status": "complete",
+          "replies_status": "error",
           "author_liked": false,
           "replies": []
         },
         {
-          "comment_id": "7661919689229501222",
-          "text": "上联：浪子回头金不换  \n下联：浪潮紫光满仓干",
-          "create_time": 1783930459,
-          "create_time_display": "2026-07-13 16:14:19",
-          "digg_count": 3,
+          "comment_id": "7662198875607909156",
+          "text": "好不容易信一次",
+          "create_time": 1783994698,
+          "create_time_display": "2026-07-14 10:04:58",
+          "digg_count": 6,
+          "reply_total": 2,
+          "ip_label": "北京",
+          "user": {
+            "nickname": "小猴几的大西瓜",
+            "uid": "105723603779",
+            "sec_uid": "MS4wLjABAAAA8kAp8RHNR3TZg5fYYPOVYFvz7o3p_IFpf7eq2CRc2S0",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_75ba0fdf723148aaa0b3e90c7815e175.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7662200997791712042",
+          "text": "看看今天紫光浪潮跌成狗了",
+          "create_time": 1783995193,
+          "create_time_display": "2026-07-14 10:13:13",
+          "digg_count": 9,
+          "reply_total": 3,
+          "ip_label": "北京",
+          "user": {
+            "nickname": "余飞",
+            "uid": "99379217613",
+            "sec_uid": "MS4wLjABAAAAe2bsz40c-hYPBBrDG1bKVgaD4obEV6NXd3ehxloL5gw",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_050a7a05590d588b9f05520fcca04601.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7662323003511128869",
+          "text": "@豆包 总结一下",
+          "create_time": 1784023598,
+          "create_time_display": "2026-07-14 18:06:38",
+          "digg_count": 0,
           "reply_total": 0,
           "ip_label": "浙江",
           "user": {
-            "nickname": "让妇女和孩子先上船",
-            "uid": "1754436628659987",
-            "sec_uid": "MS4wLjABAAAAHf-eAPN55L8EF_7PCvzeBonfoZ8N3MqmA3IAfGDFvf9b7u2NwobtIbwh0UvsRomd",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_og1yVA2uWDAifDIlClebACgqUarAsQEW9AndAo.jpeg?from=2064092626"
+            "nickname": "Sss-",
+            "uid": "91675873268",
+            "sec_uid": "MS4wLjABAAAAeqtOWNEY13RkKybbon0n4ENehKFWVeav8rlhuiaHU9g",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f22294dd35f6fcf1b25a92841f00681a.jpeg?from=2064092626"
           },
           "replies_status": "complete",
-          "author_liked": false,
-          "replies": []
-        },
-        {
-          "comment_id": "7662234002032001841",
-          "text": "今年浪潮信息利润估计有百亿，你们还觉得这个价位不够便宜么？干就完了[赞]",
-          "create_time": 1784002876,
-          "create_time_display": "2026-07-14 12:21:16",
-          "digg_count": 23,
-          "reply_total": 35,
-          "ip_label": "黑龙江",
-          "user": {
-            "nickname": "扑克",
-            "uid": "103586803843",
-            "sec_uid": "MS4wLjABAAAAYXLPXhltZwid_OP1_ntbGrZ0E3hLndAWDDU4jabP-1I",
-            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oIlGATBbIAmkCfyAEdAaLAAoA9ep2CbpagPn6D.jpeg?from=2064092626"
-          },
-          "replies_status": "error",
           "author_liked": false,
           "replies": []
         }
