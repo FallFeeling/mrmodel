@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T10:19:25",
+  "generated_at": "2026-07-17T13:07:22",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 34,
-    "total_likes": 491656,
+    "total_likes": 495169,
     "total_comments": 104842,
     "active_monitors": 1,
     "interaction_video_count": 9,
@@ -18,10 +18,10 @@
       "description": "抖音用户追求知名度和美誉度，而美誉度的关键是为观众带来实际利益。然而，金融市场存在悖论，大部分人最终会亏钱。作者意识到自己的抖音方向存在问题，需要调整以提高美誉度。",
       "published_at": "2026-07-17 08:24:27",
       "published_timestamp": 1784247867,
-      "like_count": 6356,
+      "like_count": 9869,
       "comment_count": 0,
       "has_author_interaction": false,
-      "engagement_share": 18.5
+      "engagement_share": 28.7
     },
     {
       "video_id": "7661997109886056346",
