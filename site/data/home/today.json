@@ -1,18 +1,28 @@
 {
-  "generated_at": "2026-07-17T17:36:33",
+  "generated_at": "2026-07-18T10:28:36",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 35,
-    "total_likes": 504394,
-    "total_comments": 108391,
-    "active_monitors": 0,
-    "interaction_video_count": 10,
-    "interaction_rate": 28.6,
-    "author_reply_count": 15,
-    "transcribed_video_count": 10,
-    "comment_enriched_video_count": 10
+    "video_count": 36,
+    "total_likes": 509662,
+    "total_comments": 111371,
+    "active_monitors": 1,
+    "interaction_video_count": 11,
+    "interaction_rate": 30.6,
+    "author_reply_count": 16,
+    "transcribed_video_count": 11,
+    "comment_enriched_video_count": 11
   },
   "recent_videos": [
+    {
+      "video_id": "7663671898644038833",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-18 09:21:01",
+      "published_timestamp": 1784337661,
+      "like_count": 5268,
+      "comment_count": 2980,
+      "has_author_interaction": true,
+      "engagement_share": 24.0
+    },
     {
       "video_id": "7663400486263099377",
       "description": "市场走势受量化影响，高位科技股波动大。作者曾看多商业航天，但最近一次走势受量化影响。他看好的板块相对科技股表现强势，量化杀跌后可能有单日反弹机会，但难以预测。",
@@ -82,16 +92,6 @@
       "comment_count": 1679,
       "has_author_interaction": false,
       "engagement_share": 25.0
-    },
-    {
-      "video_id": "7661035253272059057",
-      "description": "豪威集团 · 紫光科技 · 中兴通讯",
-      "published_at": "2026-07-11 06:49:30",
-      "published_timestamp": 1783723770,
-      "like_count": 10906,
-      "comment_count": 2758,
-      "has_author_interaction": false,
-      "engagement_share": 39.7
     }
   ],
   "modules": [
