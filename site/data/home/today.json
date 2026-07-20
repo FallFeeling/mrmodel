@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20T11:48:17",
+  "generated_at": "2026-07-20T14:48:51",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 39,
-    "total_likes": 589717,
-    "total_comments": 131721,
+    "total_likes": 591032,
+    "total_comments": 132094,
     "active_monitors": 2,
     "interaction_video_count": 14,
     "interaction_rate": 35.9,
@@ -18,8 +18,8 @@
       "description": "市场走势预测，指数下跌空间有限，反弹后会再杀跌，11月开启跨年度行情，明年科技股和美股、日韩科技股共振高点后会有堪比熊市的杀跌，真正的牛市起点后，80%行业将迎来大级别行情。目前处于牛市孕育期，框架会随市场走势发展而改变。",
       "published_at": "2026-07-19 15:59:27",
       "published_timestamp": 1784447967,
-      "like_count": 31307,
-      "comment_count": 5158,
+      "like_count": 32344,
+      "comment_count": 5486,
       "has_author_interaction": true,
       "engagement_share": 100.0
     },
@@ -28,10 +28,10 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-19 12:34:09",
       "published_timestamp": 1784435649,
-      "like_count": 15846,
-      "comment_count": 3886,
+      "like_count": 16124,
+      "comment_count": 3931,
       "has_author_interaction": true,
-      "engagement_share": 54.1
+      "engagement_share": 53.0
     },
     {
       "video_id": "7663705254588501241",
@@ -41,7 +41,7 @@
       "like_count": 18893,
       "comment_count": 4332,
       "has_author_interaction": true,
-      "engagement_share": 63.7
+      "engagement_share": 61.4
     },
     {
       "video_id": "7663671898644038833",
@@ -51,7 +51,7 @@
       "like_count": 19277,
       "comment_count": 9954,
       "has_author_interaction": true,
-      "engagement_share": 80.2
+      "engagement_share": 77.3
     },
     {
       "video_id": "7663400486263099377",
@@ -61,7 +61,7 @@
       "like_count": 7895,
       "comment_count": 3549,
       "has_author_interaction": true,
-      "engagement_share": 31.4
+      "engagement_share": 30.3
     },
     {
       "video_id": "7663286234136074931",
@@ -71,7 +71,7 @@
       "like_count": 11199,
       "comment_count": 0,
       "has_author_interaction": false,
-      "engagement_share": 30.7
+      "engagement_share": 29.6
     },
     {
       "video_id": "7661997109886056346",
@@ -81,7 +81,7 @@
       "like_count": 5983,
       "comment_count": 2263,
       "has_author_interaction": false,
-      "engagement_share": 22.6
+      "engagement_share": 21.8
     },
     {
       "video_id": "7661906480098216049",
@@ -91,7 +91,7 @@
       "like_count": 14964,
       "comment_count": 6656,
       "has_author_interaction": true,
-      "engagement_share": 59.3
+      "engagement_share": 57.2
     }
   ],
   "modules": [
